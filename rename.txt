@@ -1,2 +1,2 @@
-test GitRe is a software
-learn GitRe is a  heheda
+test GitRe is a software gpl
+learn GitRe is a  heheda GPL
