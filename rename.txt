@@ -1,2 +1,2 @@
-test GitRe
-learn GitRe
+test GitRe is a software
+learn GitRe is a  heheda
